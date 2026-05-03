@@ -1,5 +1,5 @@
-Name - Ankith Yadav
-Roll no -241210017
+Name - ARYAN SRIVASTAVA
+Roll no -241210025
 CSE1
 
 List of Lab experiments
