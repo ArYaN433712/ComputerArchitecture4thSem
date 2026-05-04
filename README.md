@@ -73,5 +73,47 @@ The experiment demonstrated the working of basic binary addition circuits. It he
 Lab Experiment -3:
 Aim : Draw 4 bit ripple carry adder with delay
 Software used: Logisim
-Theory:
+Theory: 
+A 4-bit Ripple Carry Adder (RCA) is a combinational circuit used to add two 4-bit binary numbers. It is constructed by connecting four full adders in series, where the carry output of one stage is connected to the carry input of the next stage.
 
+Result:
+4 bit ripple carry adder was implemented successfully on logisim 
+
+Conclusion:
+In this way we can design 4bit ripple carry adder in logisim
+
+Lab experiment-4
+Aim:Design 8*1 MUX using gates 
+Software Used: Logisim
+Theory:
+An 8×1 Multiplexer (MUX) is a combinational circuit that selects one of eight input lines and forwards it to a single output. It uses three select lines (S2, S1, S0) to determine which input is transmitted.
+Based on the binary value of the select lines, the corresponding input is connected to the output. It is widely used in digital systems for data selection and routing.
+
+Result:
+The 8*1 mux was successfully implemented 
+Conclusion:
+In this way we can implement 8*1 mux
+
+Lab experiment-5
+Aim: Design 8*3 encoder
+Software used: logisim
+Theory:
+An 8×3 Encoder is a combinational circuit that converts 8 input lines into a 3-bit binary output. At any time, only one input is assumed to be active, and the output represents the binary equivalent of the active input line.
+It reduces multiple input lines into a smaller number of output bits and is used in digital systems for efficient data encoding.
+Result:
+The 8×3 encoder circuit was successfully designed and verified. The output matched the expected binary values for each active input.
+
+Conclusion:
+The experiment demonstrated how an encoder converts multiple inputs into a smaller binary output. It helped in understanding data encoding and reduction in digital systems.
+
+Lab experiment-6 
+Aim: Design 4bit common bus using registers and gates
+Software used: logisim
+Theory:
+A 4-bit common bus is a set of four parallel lines used to transfer 4-bit data between different registers or components in a digital system. It allows multiple devices to share a single communication path, reducing the number of connections.
+The selection of a particular register for data transfer is controlled using multiplexers or control signals. At a time, only one source is allowed to place data on the bus to avoid conflicts.
+
+Results:
+The 4bit common bus was implemented successfully 
+Conclusion:
+In this way the 4bit common bus can be implemented 
